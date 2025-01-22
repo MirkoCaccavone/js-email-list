@@ -30,5 +30,9 @@ li:hover{
     border-radius: 5px;
     background-color: #2076f7;
     color: #fff;
+    cursor: pointer;
+}
 
+#bottone:hover{
+    background-color: #0056b3;
 }
